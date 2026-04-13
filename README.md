@@ -1,4 +1,4 @@
-
+This repository is used for ITAP2013 Software Engineering Code Review Assignment.
 ![py-bugger logo](https://raw.githubusercontent.com/ehmatthes/py-bugger/main/assets/logo_raw_bordered.png)
 
 py-bugger
